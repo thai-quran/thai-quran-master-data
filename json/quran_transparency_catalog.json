@@ -12625,6 +12625,18 @@
   },
   {
     "id": 1053,
+    "verse_key": "22:17",
+    "surah_id": 22,
+    "verse_id": 17,
+    "type": "THEOLOGICAL",
+    "target": "[เชิงอรรถ #3 พวกนะศอรอ] ผู้ที่เกี่ยวพันกับมูซา อะลัยฮิสสลาม",
+    "replacement": "[เชิงอรรถ #3 พวกนะศอรอ] คือผู้ที่เกี่ยวพันกับอีซา อะลัยฮิสสลาม",
+    "reason": "แก้ไขข้อผิดพลาดร้ายแรงในเชิงอรรถที่ 3 ของอายะฮฺ 22:17 ('พวกนะศอรอ[3]') ซึ่งข้อมูลดิจิทัลดั้งเดิมระบุผิดเป็น 'ผู้ที่เกี่ยวพันกับมูซา อะลัยฮิสสลาม' ให้ถูกต้องเป็น 'คือผู้ที่เกี่ยวพันกับอีซา อะลัยฮิสสลาม' ตามหน้าสแกนฉบับพิมพ์จริง King Fahd 1990 หน้า 799 เชิงอรรถที่ 5",
+    "source": "Human Lead Auditor (Printed 1990 King Fahd Cross-Check)",
+    "missing_from_printed_copy": 0
+  },
+  {
+    "id": 1054,
     "verse_key": "22:22",
     "surah_id": 22,
     "verse_id": 22,
@@ -12636,7 +12648,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1054,
+    "id": 1055,
     "verse_key": "22:25",
     "surah_id": 22,
     "verse_id": 25,
@@ -12648,7 +12660,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1055,
+    "id": 1056,
     "verse_key": "22:25",
     "surah_id": 22,
     "verse_id": 25,
@@ -12660,7 +12672,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1056,
+    "id": 1057,
     "verse_key": "22:26",
     "surah_id": 22,
     "verse_id": 26,
@@ -12672,7 +12684,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1057,
+    "id": 1058,
     "verse_key": "22:28",
     "surah_id": 22,
     "verse_id": 28,
@@ -12684,7 +12696,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1058,
+    "id": 1059,
     "verse_key": "22:28",
     "surah_id": 22,
     "verse_id": 28,
@@ -12696,7 +12708,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1059,
+    "id": 1060,
     "verse_key": "22:29",
     "surah_id": 22,
     "verse_id": 29,
@@ -12708,7 +12720,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1060,
+    "id": 1061,
     "verse_key": "22:31",
     "surah_id": 22,
     "verse_id": 31,
@@ -12720,7 +12732,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1061,
+    "id": 1062,
     "verse_key": "22:35",
     "surah_id": 22,
     "verse_id": 35,
@@ -12732,7 +12744,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1062,
+    "id": 1063,
     "verse_key": "22:38",
     "surah_id": 22,
     "verse_id": 38,
@@ -12744,7 +12756,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1063,
+    "id": 1064,
     "verse_key": "22:43",
     "surah_id": 22,
     "verse_id": 43,
@@ -12756,7 +12768,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1064,
+    "id": 1065,
     "verse_key": "22:47",
     "surah_id": 22,
     "verse_id": 47,
@@ -12768,7 +12780,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1065,
+    "id": 1066,
     "verse_key": "22:52",
     "surah_id": 22,
     "verse_id": 52,
@@ -12780,7 +12792,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1066,
+    "id": 1067,
     "verse_key": "22:53",
     "surah_id": 22,
     "verse_id": 53,
@@ -12792,7 +12804,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1067,
+    "id": 1068,
     "verse_key": "22:61",
     "surah_id": 22,
     "verse_id": 61,
@@ -12804,7 +12816,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1068,
+    "id": 1069,
     "verse_key": "22:65",
     "surah_id": 22,
     "verse_id": 65,
@@ -12816,7 +12828,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1069,
+    "id": 1070,
     "verse_key": "22:66",
     "surah_id": 22,
     "verse_id": 66,
@@ -12828,7 +12840,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1070,
+    "id": 1071,
     "verse_key": "22:73",
     "surah_id": 22,
     "verse_id": 73,
@@ -12840,7 +12852,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1071,
+    "id": 1072,
     "verse_key": "22:73",
     "surah_id": 22,
     "verse_id": 73,
@@ -12852,7 +12864,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1072,
+    "id": 1073,
     "verse_key": "22:75",
     "surah_id": 22,
     "verse_id": 75,
@@ -12864,7 +12876,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1073,
+    "id": 1074,
     "verse_key": "22:76",
     "surah_id": 22,
     "verse_id": 76,
@@ -12876,7 +12888,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1074,
+    "id": 1075,
     "verse_key": "22:77",
     "surah_id": 22,
     "verse_id": 77,
@@ -12888,7 +12900,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1075,
+    "id": 1076,
     "verse_key": "23:20",
     "surah_id": 23,
     "verse_id": 20,
@@ -12900,7 +12912,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1076,
+    "id": 1077,
     "verse_key": "23:23",
     "surah_id": 23,
     "verse_id": 23,
@@ -12912,7 +12924,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1077,
+    "id": 1078,
     "verse_key": "23:26",
     "surah_id": 23,
     "verse_id": 26,
@@ -12924,7 +12936,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1078,
+    "id": 1079,
     "verse_key": "23:27",
     "surah_id": 23,
     "verse_id": 27,
@@ -12936,7 +12948,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1079,
+    "id": 1080,
     "verse_key": "23:50",
     "surah_id": 23,
     "verse_id": 50,
@@ -12948,7 +12960,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1080,
+    "id": 1081,
     "verse_key": "23:58",
     "surah_id": 23,
     "verse_id": 58,
@@ -12960,7 +12972,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1081,
+    "id": 1082,
     "verse_key": "23:73",
     "surah_id": 23,
     "verse_id": 73,
@@ -12972,7 +12984,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1082,
+    "id": 1083,
     "verse_key": "23:75",
     "surah_id": 23,
     "verse_id": 75,
@@ -12984,7 +12996,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1083,
+    "id": 1084,
     "verse_key": "23:79",
     "surah_id": 23,
     "verse_id": 79,
@@ -12996,7 +13008,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1084,
+    "id": 1085,
     "verse_key": "23:80",
     "surah_id": 23,
     "verse_id": 80,
@@ -13008,7 +13020,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1085,
+    "id": 1086,
     "verse_key": "23:88",
     "surah_id": 23,
     "verse_id": 88,
@@ -13020,7 +13032,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1086,
+    "id": 1087,
     "verse_key": "23:88",
     "surah_id": 23,
     "verse_id": 88,
@@ -13032,7 +13044,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1087,
+    "id": 1088,
     "verse_key": "23:103",
     "surah_id": 23,
     "verse_id": 103,
@@ -13044,7 +13056,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1088,
+    "id": 1089,
     "verse_key": "24:1",
     "surah_id": 24,
     "verse_id": 1,
@@ -13056,7 +13068,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1089,
+    "id": 1090,
     "verse_key": "24:4",
     "surah_id": 24,
     "verse_id": 4,
@@ -13068,7 +13080,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1090,
+    "id": 1091,
     "verse_key": "24:6",
     "surah_id": 24,
     "verse_id": 6,
@@ -13080,7 +13092,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1091,
+    "id": 1092,
     "verse_key": "24:32",
     "surah_id": 24,
     "verse_id": 32,
@@ -13092,7 +13104,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1092,
+    "id": 1093,
     "verse_key": "24:33",
     "surah_id": 24,
     "verse_id": 33,
@@ -13104,7 +13116,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1093,
+    "id": 1094,
     "verse_key": "24:39",
     "surah_id": 24,
     "verse_id": 39,
@@ -13116,7 +13128,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1094,
+    "id": 1095,
     "verse_key": "24:44",
     "surah_id": 24,
     "verse_id": 44,
@@ -13128,7 +13140,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1095,
+    "id": 1096,
     "verse_key": "24:56",
     "surah_id": 24,
     "verse_id": 56,
@@ -13140,7 +13152,7 @@
     "missing_from_printed_copy": 1
   },
   {
-    "id": 1096,
+    "id": 1097,
     "verse_key": "24:62",
     "surah_id": 24,
     "verse_id": 62,
@@ -13152,7 +13164,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1097,
+    "id": 1098,
     "verse_key": "24:63",
     "surah_id": 24,
     "verse_id": 63,
@@ -13164,7 +13176,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1098,
+    "id": 1099,
     "verse_key": "25:12",
     "surah_id": 25,
     "verse_id": 12,
@@ -13176,7 +13188,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1099,
+    "id": 1100,
     "verse_key": "25:21",
     "surah_id": 25,
     "verse_id": 21,
@@ -13188,7 +13200,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1100,
+    "id": 1101,
     "verse_key": "25:25",
     "surah_id": 25,
     "verse_id": 25,
@@ -13200,7 +13212,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1101,
+    "id": 1102,
     "verse_key": "25:35",
     "surah_id": 25,
     "verse_id": 35,
@@ -13212,7 +13224,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1102,
+    "id": 1103,
     "verse_key": "25:37",
     "surah_id": 25,
     "verse_id": 37,
@@ -13224,7 +13236,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1103,
+    "id": 1104,
     "verse_key": "25:57",
     "surah_id": 25,
     "verse_id": 57,
@@ -13236,7 +13248,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1104,
+    "id": 1105,
     "verse_key": "25:59",
     "surah_id": 25,
     "verse_id": 59,
@@ -13248,7 +13260,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1105,
+    "id": 1106,
     "verse_key": "25:63",
     "surah_id": 25,
     "verse_id": 63,
@@ -13260,7 +13272,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1106,
+    "id": 1107,
     "verse_key": "25:65",
     "surah_id": 25,
     "verse_id": 65,
@@ -13272,7 +13284,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1107,
+    "id": 1108,
     "verse_key": "25:69",
     "surah_id": 25,
     "verse_id": 69,
@@ -13284,7 +13296,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1108,
+    "id": 1109,
     "verse_key": "26:52",
     "surah_id": 26,
     "verse_id": 52,
@@ -13296,7 +13308,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1109,
+    "id": 1110,
     "verse_key": "26:53",
     "surah_id": 26,
     "verse_id": 53,
@@ -13308,7 +13320,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1110,
+    "id": 1111,
     "verse_key": "26:55",
     "surah_id": 26,
     "verse_id": 55,
@@ -13320,7 +13332,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1111,
+    "id": 1112,
     "verse_key": "26:58",
     "surah_id": 26,
     "verse_id": 58,
@@ -13332,7 +13344,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1112,
+    "id": 1113,
     "verse_key": "26:66",
     "surah_id": 26,
     "verse_id": 66,
@@ -13344,7 +13356,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1113,
+    "id": 1114,
     "verse_key": "26:94",
     "surah_id": 26,
     "verse_id": 94,
@@ -13356,7 +13368,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1114,
+    "id": 1115,
     "verse_key": "26:105",
     "surah_id": 26,
     "verse_id": 105,
@@ -13368,7 +13380,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1115,
+    "id": 1116,
     "verse_key": "26:106",
     "surah_id": 26,
     "verse_id": 106,
@@ -13380,7 +13392,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1116,
+    "id": 1117,
     "verse_key": "26:112",
     "surah_id": 26,
     "verse_id": 112,
@@ -13392,7 +13404,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1117,
+    "id": 1118,
     "verse_key": "26:116",
     "surah_id": 26,
     "verse_id": 116,
@@ -13404,7 +13416,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1118,
+    "id": 1119,
     "verse_key": "26:136",
     "surah_id": 26,
     "verse_id": 136,
@@ -13416,7 +13428,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1119,
+    "id": 1120,
     "verse_key": "26:141",
     "surah_id": 26,
     "verse_id": 141,
@@ -13428,7 +13440,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1120,
+    "id": 1121,
     "verse_key": "26:182",
     "surah_id": 26,
     "verse_id": 182,
@@ -13440,7 +13452,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1121,
+    "id": 1122,
     "verse_key": "26:186",
     "surah_id": 26,
     "verse_id": 186,
@@ -13452,7 +13464,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1122,
+    "id": 1123,
     "verse_key": "26:187",
     "surah_id": 26,
     "verse_id": 187,
@@ -13464,7 +13476,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1123,
+    "id": 1124,
     "verse_key": "26:200",
     "surah_id": 26,
     "verse_id": 200,
@@ -13476,7 +13488,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1124,
+    "id": 1125,
     "verse_key": "26:205",
     "surah_id": 26,
     "verse_id": 205,
@@ -13488,7 +13500,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1125,
+    "id": 1126,
     "verse_key": "26:226",
     "surah_id": 26,
     "verse_id": 226,
@@ -13500,7 +13512,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1126,
+    "id": 1127,
     "verse_key": "27:10",
     "surah_id": 27,
     "verse_id": 10,
@@ -13512,7 +13524,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1127,
+    "id": 1128,
     "verse_key": "27:12",
     "surah_id": 27,
     "verse_id": 12,
@@ -13524,7 +13536,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1128,
+    "id": 1129,
     "verse_key": "27:36",
     "surah_id": 27,
     "verse_id": 36,
@@ -13536,7 +13548,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1129,
+    "id": 1130,
     "verse_key": "27:44",
     "surah_id": 27,
     "verse_id": 44,
@@ -13548,7 +13560,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1130,
+    "id": 1131,
     "verse_key": "27:85",
     "surah_id": 27,
     "verse_id": 85,
@@ -13560,7 +13572,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1131,
+    "id": 1132,
     "verse_key": "28:4",
     "surah_id": 28,
     "verse_id": 4,
@@ -13572,7 +13584,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1132,
+    "id": 1133,
     "verse_key": "28:13",
     "surah_id": 28,
     "verse_id": 13,
@@ -13584,7 +13596,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1133,
+    "id": 1134,
     "verse_key": "28:15",
     "surah_id": 28,
     "verse_id": 15,
@@ -13596,7 +13608,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1134,
+    "id": 1135,
     "verse_key": "28:29",
     "surah_id": 28,
     "verse_id": 29,
@@ -13608,7 +13620,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1135,
+    "id": 1136,
     "verse_key": "28:29",
     "surah_id": 28,
     "verse_id": 29,
@@ -13620,7 +13632,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1136,
+    "id": 1137,
     "verse_key": "28:32",
     "surah_id": 28,
     "verse_id": 32,
@@ -13632,7 +13644,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1137,
+    "id": 1138,
     "verse_key": "28:43",
     "surah_id": 28,
     "verse_id": 43,
@@ -13644,7 +13656,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1138,
+    "id": 1139,
     "verse_key": "28:46",
     "surah_id": 28,
     "verse_id": 46,
@@ -13656,7 +13668,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1139,
+    "id": 1140,
     "verse_key": "28:49",
     "surah_id": 28,
     "verse_id": 49,
@@ -13668,7 +13680,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1140,
+    "id": 1141,
     "verse_key": "28:54",
     "surah_id": 28,
     "verse_id": 54,
@@ -13680,7 +13692,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1141,
+    "id": 1142,
     "verse_key": "28:70",
     "surah_id": 28,
     "verse_id": 70,
@@ -13692,7 +13704,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1142,
+    "id": 1143,
     "verse_key": "28:78",
     "surah_id": 28,
     "verse_id": 78,
@@ -13704,7 +13716,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1143,
+    "id": 1144,
     "verse_key": "28:79",
     "surah_id": 28,
     "verse_id": 79,
@@ -13716,7 +13728,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1144,
+    "id": 1145,
     "verse_key": "29:8",
     "surah_id": 29,
     "verse_id": 8,
@@ -13728,7 +13740,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1145,
+    "id": 1146,
     "verse_key": "29:13",
     "surah_id": 29,
     "verse_id": 13,
@@ -13740,7 +13752,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1146,
+    "id": 1147,
     "verse_key": "29:14",
     "surah_id": 29,
     "verse_id": 14,
@@ -13752,7 +13764,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1147,
+    "id": 1148,
     "verse_key": "29:27",
     "surah_id": 29,
     "verse_id": 27,
@@ -13764,7 +13776,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1148,
+    "id": 1149,
     "verse_key": "29:29",
     "surah_id": 29,
     "verse_id": 29,
@@ -13776,7 +13788,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1149,
+    "id": 1150,
     "verse_key": "29:31",
     "surah_id": 29,
     "verse_id": 31,
@@ -13788,7 +13800,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1150,
+    "id": 1151,
     "verse_key": "29:33",
     "surah_id": 29,
     "verse_id": 33,
@@ -13800,7 +13812,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1151,
+    "id": 1152,
     "verse_key": "29:45",
     "surah_id": 29,
     "verse_id": 45,
@@ -13812,7 +13824,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1152,
+    "id": 1153,
     "verse_key": "29:50",
     "surah_id": 29,
     "verse_id": 50,
@@ -13824,7 +13836,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1153,
+    "id": 1154,
     "verse_key": "29:56",
     "surah_id": 29,
     "verse_id": 56,
@@ -13836,7 +13848,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1154,
+    "id": 1155,
     "verse_key": "29:60",
     "surah_id": 29,
     "verse_id": 60,
@@ -13848,7 +13860,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1155,
+    "id": 1156,
     "verse_key": "30:21",
     "surah_id": 30,
     "verse_id": 21,
@@ -13860,7 +13872,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1156,
+    "id": 1157,
     "verse_key": "30:28",
     "surah_id": 30,
     "verse_id": 28,
@@ -13872,7 +13884,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1157,
+    "id": 1158,
     "verse_key": "30:48",
     "surah_id": 30,
     "verse_id": 48,
@@ -13884,7 +13896,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1158,
+    "id": 1159,
     "verse_key": "30:56",
     "surah_id": 30,
     "verse_id": 56,
@@ -13896,7 +13908,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1159,
+    "id": 1160,
     "verse_key": "30:58",
     "surah_id": 30,
     "verse_id": 58,
@@ -13908,7 +13920,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1160,
+    "id": 1161,
     "verse_key": "31:13",
     "surah_id": 31,
     "verse_id": 13,
@@ -13920,7 +13932,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1161,
+    "id": 1162,
     "verse_key": "31:14",
     "surah_id": 31,
     "verse_id": 14,
@@ -13932,7 +13944,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1162,
+    "id": 1163,
     "verse_key": "31:16",
     "surah_id": 31,
     "verse_id": 16,
@@ -13944,7 +13956,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1163,
+    "id": 1164,
     "verse_key": "31:17",
     "surah_id": 31,
     "verse_id": 17,
@@ -13956,7 +13968,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1164,
+    "id": 1165,
     "verse_key": "31:18",
     "surah_id": 31,
     "verse_id": 18,
@@ -13968,7 +13980,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1165,
+    "id": 1166,
     "verse_key": "31:19",
     "surah_id": 31,
     "verse_id": 19,
@@ -13980,7 +13992,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1166,
+    "id": 1167,
     "verse_key": "31:21",
     "surah_id": 31,
     "verse_id": 21,
@@ -13992,7 +14004,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1167,
+    "id": 1168,
     "verse_key": "31:25",
     "surah_id": 31,
     "verse_id": 25,
@@ -14004,7 +14016,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1168,
+    "id": 1169,
     "verse_key": "31:27",
     "surah_id": 31,
     "verse_id": 27,
@@ -14016,7 +14028,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1169,
+    "id": 1170,
     "verse_key": "31:30",
     "surah_id": 31,
     "verse_id": 30,
@@ -14028,7 +14040,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1170,
+    "id": 1171,
     "verse_key": "31:33",
     "surah_id": 31,
     "verse_id": 33,
@@ -14040,7 +14052,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1171,
+    "id": 1172,
     "verse_key": "32:3",
     "surah_id": 32,
     "verse_id": 3,
@@ -14052,7 +14064,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1172,
+    "id": 1173,
     "verse_key": "32:4",
     "surah_id": 32,
     "verse_id": 4,
@@ -14064,7 +14076,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1173,
+    "id": 1174,
     "verse_key": "32:18",
     "surah_id": 32,
     "verse_id": 18,
@@ -14076,7 +14088,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1174,
+    "id": 1175,
     "verse_key": "32:20",
     "surah_id": 32,
     "verse_id": 20,
@@ -14088,7 +14100,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1175,
+    "id": 1176,
     "verse_key": "32:26",
     "surah_id": 32,
     "verse_id": 26,
@@ -14100,7 +14112,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1176,
+    "id": 1177,
     "verse_key": "32:27",
     "surah_id": 32,
     "verse_id": 27,
@@ -14112,7 +14124,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1177,
+    "id": 1178,
     "verse_key": "33:5",
     "surah_id": 33,
     "verse_id": 5,
@@ -14124,7 +14136,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1178,
+    "id": 1179,
     "verse_key": "33:5",
     "surah_id": 33,
     "verse_id": 5,
@@ -14136,7 +14148,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1179,
+    "id": 1180,
     "verse_key": "33:6",
     "surah_id": 33,
     "verse_id": 6,
@@ -14148,7 +14160,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1180,
+    "id": 1181,
     "verse_key": "33:7",
     "surah_id": 33,
     "verse_id": 7,
@@ -14160,7 +14172,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1181,
+    "id": 1182,
     "verse_key": "33:10",
     "surah_id": 33,
     "verse_id": 10,
@@ -14172,7 +14184,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1182,
+    "id": 1183,
     "verse_key": "33:19",
     "surah_id": 33,
     "verse_id": 19,
@@ -14184,7 +14196,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1183,
+    "id": 1184,
     "verse_key": "33:33",
     "surah_id": 33,
     "verse_id": 33,
@@ -14196,7 +14208,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1184,
+    "id": 1185,
     "verse_key": "33:42",
     "surah_id": 33,
     "verse_id": 42,
@@ -14208,7 +14220,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1185,
+    "id": 1186,
     "verse_key": "33:52",
     "surah_id": 33,
     "verse_id": 52,
@@ -14220,7 +14232,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1186,
+    "id": 1187,
     "verse_key": "33:55",
     "surah_id": 33,
     "verse_id": 55,
@@ -14232,7 +14244,7 @@
     "missing_from_printed_copy": 1
   },
   {
-    "id": 1187,
+    "id": 1188,
     "verse_key": "33:63",
     "surah_id": 33,
     "verse_id": 63,
@@ -14244,7 +14256,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1188,
+    "id": 1189,
     "verse_key": "33:66",
     "surah_id": 33,
     "verse_id": 66,
@@ -14256,7 +14268,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1189,
+    "id": 1190,
     "verse_key": "33:67",
     "surah_id": 33,
     "verse_id": 67,
@@ -14268,7 +14280,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1190,
+    "id": 1191,
     "verse_key": "33:68",
     "surah_id": 33,
     "verse_id": 68,
@@ -14280,7 +14292,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1191,
+    "id": 1192,
     "verse_key": "34:1",
     "surah_id": 34,
     "verse_id": 1,
@@ -14292,7 +14304,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1192,
+    "id": 1193,
     "verse_key": "34:7",
     "surah_id": 34,
     "verse_id": 7,
@@ -14304,7 +14316,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1193,
+    "id": 1194,
     "verse_key": "34:8",
     "surah_id": 34,
     "verse_id": 8,
@@ -14316,7 +14328,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1194,
+    "id": 1195,
     "verse_key": "34:10",
     "surah_id": 34,
     "verse_id": 10,
@@ -14328,7 +14340,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1195,
+    "id": 1196,
     "verse_key": "34:13",
     "surah_id": 34,
     "verse_id": 13,
@@ -14340,7 +14352,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1196,
+    "id": 1197,
     "verse_key": "34:15",
     "surah_id": 34,
     "verse_id": 15,
@@ -14352,7 +14364,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1197,
+    "id": 1198,
     "verse_key": "34:19",
     "surah_id": 34,
     "verse_id": 19,
@@ -14364,7 +14376,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1198,
+    "id": 1199,
     "verse_key": "34:19",
     "surah_id": 34,
     "verse_id": 19,
@@ -14376,7 +14388,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1199,
+    "id": 1200,
     "verse_key": "34:22",
     "surah_id": 34,
     "verse_id": 22,
@@ -14388,7 +14400,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1200,
+    "id": 1201,
     "verse_key": "34:25",
     "surah_id": 34,
     "verse_id": 25,
@@ -14400,7 +14412,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1201,
+    "id": 1202,
     "verse_key": "34:27",
     "surah_id": 34,
     "verse_id": 27,
@@ -14412,7 +14424,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1202,
+    "id": 1203,
     "verse_key": "34:32",
     "surah_id": 34,
     "verse_id": 32,
@@ -14424,7 +14436,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1203,
+    "id": 1204,
     "verse_key": "34:33",
     "surah_id": 34,
     "verse_id": 33,
@@ -14436,7 +14448,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1204,
+    "id": 1205,
     "verse_key": "34:34",
     "surah_id": 34,
     "verse_id": 34,
@@ -14448,7 +14460,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1205,
+    "id": 1206,
     "verse_key": "34:38",
     "surah_id": 34,
     "verse_id": 38,
@@ -14460,7 +14472,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1206,
+    "id": 1207,
     "verse_key": "34:39",
     "surah_id": 34,
     "verse_id": 39,
@@ -14472,7 +14484,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1207,
+    "id": 1208,
     "verse_key": "34:40",
     "surah_id": 34,
     "verse_id": 40,
@@ -14484,7 +14496,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1208,
+    "id": 1209,
     "verse_key": "34:45",
     "surah_id": 34,
     "verse_id": 45,
@@ -14496,7 +14508,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1209,
+    "id": 1210,
     "verse_key": "34:48",
     "surah_id": 34,
     "verse_id": 48,
@@ -14508,7 +14520,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1210,
+    "id": 1211,
     "verse_key": "34:51",
     "surah_id": 34,
     "verse_id": 51,
@@ -14520,7 +14532,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1211,
+    "id": 1212,
     "verse_key": "34:52",
     "surah_id": 34,
     "verse_id": 52,
@@ -14532,7 +14544,7 @@
     "missing_from_printed_copy": 1
   },
   {
-    "id": 1212,
+    "id": 1213,
     "verse_key": "35:2",
     "surah_id": 35,
     "verse_id": 2,
@@ -14544,7 +14556,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1213,
+    "id": 1214,
     "verse_key": "35:3",
     "surah_id": 35,
     "verse_id": 3,
@@ -14556,7 +14568,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1214,
+    "id": 1215,
     "verse_key": "35:4",
     "surah_id": 35,
     "verse_id": 4,
@@ -14568,7 +14580,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1215,
+    "id": 1216,
     "verse_key": "35:4",
     "surah_id": 35,
     "verse_id": 4,
@@ -14580,7 +14592,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1216,
+    "id": 1217,
     "verse_key": "35:8",
     "surah_id": 35,
     "verse_id": 8,
@@ -14592,7 +14604,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1217,
+    "id": 1218,
     "verse_key": "35:14",
     "surah_id": 35,
     "verse_id": 14,
@@ -14604,7 +14616,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1218,
+    "id": 1219,
     "verse_key": "35:26",
     "surah_id": 35,
     "verse_id": 26,
@@ -14616,7 +14628,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1219,
+    "id": 1220,
     "verse_key": "35:36",
     "surah_id": 35,
     "verse_id": 36,
@@ -14628,7 +14640,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1220,
+    "id": 1221,
     "verse_key": "35:37",
     "surah_id": 35,
     "verse_id": 37,
@@ -14640,7 +14652,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1221,
+    "id": 1222,
     "verse_key": "35:40",
     "surah_id": 35,
     "verse_id": 40,
@@ -14652,7 +14664,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1222,
+    "id": 1223,
     "verse_key": "35:40",
     "surah_id": 35,
     "verse_id": 40,
@@ -14664,7 +14676,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1223,
+    "id": 1224,
     "verse_key": "35:42",
     "surah_id": 35,
     "verse_id": 42,
@@ -14676,7 +14688,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1224,
+    "id": 1225,
     "verse_key": "35:44",
     "surah_id": 35,
     "verse_id": 44,
@@ -14688,7 +14700,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1225,
+    "id": 1226,
     "verse_key": "35:45",
     "surah_id": 35,
     "verse_id": 45,
@@ -14700,7 +14712,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1226,
+    "id": 1227,
     "verse_key": "36:1",
     "surah_id": 36,
     "verse_id": 1,
@@ -14712,7 +14724,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1227,
+    "id": 1228,
     "verse_key": "36:19",
     "surah_id": 36,
     "verse_id": 19,
@@ -14724,7 +14736,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1228,
+    "id": 1229,
     "verse_key": "36:20",
     "surah_id": 36,
     "verse_id": 20,
@@ -14736,7 +14748,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1229,
+    "id": 1230,
     "verse_key": "36:23",
     "surah_id": 36,
     "verse_id": 23,
@@ -14748,7 +14760,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1230,
+    "id": 1231,
     "verse_key": "36:25",
     "surah_id": 36,
     "verse_id": 25,
@@ -14760,7 +14772,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1231,
+    "id": 1232,
     "verse_key": "36:26",
     "surah_id": 36,
     "verse_id": 26,
@@ -14772,7 +14784,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1232,
+    "id": 1233,
     "verse_key": "36:35",
     "surah_id": 36,
     "verse_id": 35,
@@ -14784,7 +14796,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1233,
+    "id": 1234,
     "verse_key": "36:35",
     "surah_id": 36,
     "verse_id": 35,
@@ -14796,7 +14808,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1234,
+    "id": 1235,
     "verse_key": "36:47",
     "surah_id": 36,
     "verse_id": 47,
@@ -14808,7 +14820,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1235,
+    "id": 1236,
     "verse_key": "36:52",
     "surah_id": 36,
     "verse_id": 52,
@@ -14820,7 +14832,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1236,
+    "id": 1237,
     "verse_key": "36:58",
     "surah_id": 36,
     "verse_id": 58,
@@ -14832,7 +14844,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1237,
+    "id": 1238,
     "verse_key": "36:59",
     "surah_id": 36,
     "verse_id": 59,
@@ -14844,7 +14856,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1238,
+    "id": 1239,
     "verse_key": "36:60",
     "surah_id": 36,
     "verse_id": 60,
@@ -14856,7 +14868,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1239,
+    "id": 1240,
     "verse_key": "36:60",
     "surah_id": 36,
     "verse_id": 60,
@@ -14868,7 +14880,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1240,
+    "id": 1241,
     "verse_key": "36:62",
     "surah_id": 36,
     "verse_id": 62,
@@ -14880,7 +14892,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1241,
+    "id": 1242,
     "verse_key": "36:66",
     "surah_id": 36,
     "verse_id": 66,
@@ -14892,7 +14904,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1242,
+    "id": 1243,
     "verse_key": "36:68",
     "surah_id": 36,
     "verse_id": 68,
@@ -14904,7 +14916,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1243,
+    "id": 1244,
     "verse_key": "36:73",
     "surah_id": 36,
     "verse_id": 73,
@@ -14916,7 +14928,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1244,
+    "id": 1245,
     "verse_key": "36:78",
     "surah_id": 36,
     "verse_id": 78,
@@ -14928,7 +14940,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1245,
+    "id": 1246,
     "verse_key": "36:79",
     "surah_id": 36,
     "verse_id": 79,
@@ -14940,7 +14952,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1246,
+    "id": 1247,
     "verse_key": "36:81",
     "surah_id": 36,
     "verse_id": 81,
@@ -14952,7 +14964,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1247,
+    "id": 1248,
     "verse_key": "36:83",
     "surah_id": 36,
     "verse_id": 83,
@@ -14964,7 +14976,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1248,
+    "id": 1249,
     "verse_key": "37:6",
     "surah_id": 37,
     "verse_id": 6,
@@ -14976,7 +14988,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1249,
+    "id": 1250,
     "verse_key": "37:11",
     "surah_id": 37,
     "verse_id": 11,
@@ -14988,7 +15000,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1250,
+    "id": 1251,
     "verse_key": "37:16",
     "surah_id": 37,
     "verse_id": 16,
@@ -15000,7 +15012,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1251,
+    "id": 1252,
     "verse_key": "37:17",
     "surah_id": 37,
     "verse_id": 17,
@@ -15012,7 +15024,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1252,
+    "id": 1253,
     "verse_key": "37:29",
     "surah_id": 37,
     "verse_id": 29,
@@ -15024,7 +15036,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1253,
+    "id": 1254,
     "verse_key": "37:36",
     "surah_id": 37,
     "verse_id": 36,
@@ -15036,7 +15048,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1254,
+    "id": 1255,
     "verse_key": "37:37",
     "surah_id": 37,
     "verse_id": 37,
@@ -15048,7 +15060,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1255,
+    "id": 1256,
     "verse_key": "37:52",
     "surah_id": 37,
     "verse_id": 52,
@@ -15060,7 +15072,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1256,
+    "id": 1257,
     "verse_key": "37:53",
     "surah_id": 37,
     "verse_id": 53,
@@ -15072,7 +15084,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1257,
+    "id": 1258,
     "verse_key": "37:54",
     "surah_id": 37,
     "verse_id": 54,
@@ -15084,7 +15096,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1258,
+    "id": 1259,
     "verse_key": "37:59",
     "surah_id": 37,
     "verse_id": 59,
@@ -15096,7 +15108,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1259,
+    "id": 1260,
     "verse_key": "37:64",
     "surah_id": 37,
     "verse_id": 64,
@@ -15108,7 +15120,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1260,
+    "id": 1261,
     "verse_key": "37:69",
     "surah_id": 37,
     "verse_id": 69,
@@ -15120,7 +15132,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1261,
+    "id": 1262,
     "verse_key": "37:73",
     "surah_id": 37,
     "verse_id": 73,
@@ -15132,7 +15144,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1262,
+    "id": 1263,
     "verse_key": "37:79",
     "surah_id": 37,
     "verse_id": 79,
@@ -15144,7 +15156,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1263,
+    "id": 1264,
     "verse_key": "37:84",
     "surah_id": 37,
     "verse_id": 84,
@@ -15156,7 +15168,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1264,
+    "id": 1265,
     "verse_key": "37:85",
     "surah_id": 37,
     "verse_id": 85,
@@ -15168,7 +15180,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1265,
+    "id": 1266,
     "verse_key": "37:86",
     "surah_id": 37,
     "verse_id": 86,
@@ -15180,7 +15192,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1266,
+    "id": 1267,
     "verse_key": "37:87",
     "surah_id": 37,
     "verse_id": 87,
@@ -15192,7 +15204,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1267,
+    "id": 1268,
     "verse_key": "37:91",
     "surah_id": 37,
     "verse_id": 91,
@@ -15204,7 +15216,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1268,
+    "id": 1269,
     "verse_key": "37:92",
     "surah_id": 37,
     "verse_id": 92,
@@ -15216,7 +15228,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1269,
+    "id": 1270,
     "verse_key": "37:95",
     "surah_id": 37,
     "verse_id": 95,
@@ -15228,7 +15240,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1270,
+    "id": 1271,
     "verse_key": "37:102",
     "surah_id": 37,
     "verse_id": 102,
@@ -15240,7 +15252,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1271,
+    "id": 1272,
     "verse_key": "37:104",
     "surah_id": 37,
     "verse_id": 104,
@@ -15252,7 +15264,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1272,
+    "id": 1273,
     "verse_key": "37:124",
     "surah_id": 37,
     "verse_id": 124,
@@ -15264,7 +15276,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1273,
+    "id": 1274,
     "verse_key": "37:125",
     "surah_id": 37,
     "verse_id": 125,
@@ -15276,7 +15288,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1274,
+    "id": 1275,
     "verse_key": "37:138",
     "surah_id": 37,
     "verse_id": 138,
@@ -15288,7 +15300,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1275,
+    "id": 1276,
     "verse_key": "37:139",
     "surah_id": 37,
     "verse_id": 139,
@@ -15300,7 +15312,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1276,
+    "id": 1277,
     "verse_key": "37:149",
     "surah_id": 37,
     "verse_id": 149,
@@ -15312,7 +15324,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1277,
+    "id": 1278,
     "verse_key": "37:152",
     "surah_id": 37,
     "verse_id": 152,
@@ -15324,7 +15336,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1278,
+    "id": 1279,
     "verse_key": "37:153",
     "surah_id": 37,
     "verse_id": 153,
@@ -15336,7 +15348,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1279,
+    "id": 1280,
     "verse_key": "37:154",
     "surah_id": 37,
     "verse_id": 154,
@@ -15348,7 +15360,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1280,
+    "id": 1281,
     "verse_key": "37:155",
     "surah_id": 37,
     "verse_id": 155,
@@ -15360,7 +15372,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1281,
+    "id": 1282,
     "verse_key": "37:156",
     "surah_id": 37,
     "verse_id": 156,
@@ -15372,7 +15384,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1282,
+    "id": 1283,
     "verse_key": "37:176",
     "surah_id": 37,
     "verse_id": 176,
@@ -15384,7 +15396,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1283,
+    "id": 1284,
     "verse_key": "37:177",
     "surah_id": 37,
     "verse_id": 177,
@@ -15396,7 +15408,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1284,
+    "id": 1285,
     "verse_key": "38:2",
     "surah_id": 38,
     "verse_id": 2,
@@ -15408,7 +15420,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1285,
+    "id": 1286,
     "verse_key": "38:5",
     "surah_id": 38,
     "verse_id": 5,
@@ -15420,7 +15432,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1286,
+    "id": 1287,
     "verse_key": "38:6",
     "surah_id": 38,
     "verse_id": 6,
@@ -15432,7 +15444,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1287,
+    "id": 1288,
     "verse_key": "38:8",
     "surah_id": 38,
     "verse_id": 8,
@@ -15444,7 +15456,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1288,
+    "id": 1289,
     "verse_key": "38:11",
     "surah_id": 38,
     "verse_id": 11,
@@ -15456,7 +15468,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1289,
+    "id": 1290,
     "verse_key": "38:21",
     "surah_id": 38,
     "verse_id": 21,
@@ -15468,7 +15480,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1290,
+    "id": 1291,
     "verse_key": "38:26",
     "surah_id": 38,
     "verse_id": 26,
@@ -15480,7 +15492,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1291,
+    "id": 1292,
     "verse_key": "38:28",
     "surah_id": 38,
     "verse_id": 28,
@@ -15492,7 +15504,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1292,
+    "id": 1293,
     "verse_key": "38:37",
     "surah_id": 38,
     "verse_id": 37,
@@ -15504,7 +15516,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1293,
+    "id": 1294,
     "verse_key": "38:41",
     "surah_id": 38,
     "verse_id": 41,
@@ -15516,7 +15528,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1294,
+    "id": 1295,
     "verse_key": "38:45",
     "surah_id": 38,
     "verse_id": 45,
@@ -15528,7 +15540,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1295,
+    "id": 1296,
     "verse_key": "38:62",
     "surah_id": 38,
     "verse_id": 62,
@@ -15540,7 +15552,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1296,
+    "id": 1297,
     "verse_key": "38:70",
     "surah_id": 38,
     "verse_id": 70,
@@ -15552,7 +15564,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1297,
+    "id": 1298,
     "verse_key": "38:86",
     "surah_id": 38,
     "verse_id": 86,
@@ -15564,7 +15576,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1298,
+    "id": 1299,
     "verse_key": "39:3",
     "surah_id": 39,
     "verse_id": 3,
@@ -15576,7 +15588,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1299,
+    "id": 1300,
     "verse_key": "39:3",
     "surah_id": 39,
     "verse_id": 3,
@@ -15588,7 +15600,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1300,
+    "id": 1301,
     "verse_key": "39:5",
     "surah_id": 39,
     "verse_id": 5,
@@ -15600,7 +15612,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1301,
+    "id": 1302,
     "verse_key": "39:6",
     "surah_id": 39,
     "verse_id": 6,
@@ -15612,7 +15624,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1302,
+    "id": 1303,
     "verse_key": "39:7",
     "surah_id": 39,
     "verse_id": 7,
@@ -15624,7 +15636,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1303,
+    "id": 1304,
     "verse_key": "39:9",
     "surah_id": 39,
     "verse_id": 9,
@@ -15636,7 +15648,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1304,
+    "id": 1305,
     "verse_key": "39:10",
     "surah_id": 39,
     "verse_id": 10,
@@ -15648,7 +15660,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1305,
+    "id": 1306,
     "verse_key": "39:15",
     "surah_id": 39,
     "verse_id": 15,
@@ -15660,7 +15672,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1306,
+    "id": 1307,
     "verse_key": "39:16",
     "surah_id": 39,
     "verse_id": 16,
@@ -15672,7 +15684,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1307,
+    "id": 1308,
     "verse_key": "39:17",
     "surah_id": 39,
     "verse_id": 17,
@@ -15684,7 +15696,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1308,
+    "id": 1309,
     "verse_key": "39:19",
     "surah_id": 39,
     "verse_id": 19,
@@ -15696,7 +15708,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1309,
+    "id": 1310,
     "verse_key": "39:22",
     "surah_id": 39,
     "verse_id": 22,
@@ -15708,7 +15720,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1310,
+    "id": 1311,
     "verse_key": "39:24",
     "surah_id": 39,
     "verse_id": 24,
@@ -15720,7 +15732,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1311,
+    "id": 1312,
     "verse_key": "39:29",
     "surah_id": 39,
     "verse_id": 29,
@@ -15732,7 +15744,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1312,
+    "id": 1313,
     "verse_key": "39:38",
     "surah_id": 39,
     "verse_id": 38,
@@ -15744,7 +15756,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1313,
+    "id": 1314,
     "verse_key": "39:39",
     "surah_id": 39,
     "verse_id": 39,
@@ -15756,7 +15768,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1314,
+    "id": 1315,
     "verse_key": "39:42",
     "surah_id": 39,
     "verse_id": 42,
@@ -15768,7 +15780,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1315,
+    "id": 1316,
     "verse_key": "39:43",
     "surah_id": 39,
     "verse_id": 43,
@@ -15780,7 +15792,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1316,
+    "id": 1317,
     "verse_key": "39:46",
     "surah_id": 39,
     "verse_id": 46,
@@ -15792,7 +15804,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1317,
+    "id": 1318,
     "verse_key": "39:49",
     "surah_id": 39,
     "verse_id": 49,
@@ -15804,7 +15816,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1318,
+    "id": 1319,
     "verse_key": "39:53",
     "surah_id": 39,
     "verse_id": 53,
@@ -15816,7 +15828,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1319,
+    "id": 1320,
     "verse_key": "39:59",
     "surah_id": 39,
     "verse_id": 59,
@@ -15828,7 +15840,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1320,
+    "id": 1321,
     "verse_key": "39:60",
     "surah_id": 39,
     "verse_id": 60,
@@ -15840,7 +15852,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1321,
+    "id": 1322,
     "verse_key": "39:62",
     "surah_id": 39,
     "verse_id": 62,
@@ -15852,7 +15864,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1322,
+    "id": 1323,
     "verse_key": "39:64",
     "surah_id": 39,
     "verse_id": 64,
@@ -15864,7 +15876,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1323,
+    "id": 1324,
     "verse_key": "39:71",
     "surah_id": 39,
     "verse_id": 71,
@@ -15876,7 +15888,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1324,
+    "id": 1325,
     "verse_key": "39:71",
     "surah_id": 39,
     "verse_id": 71,
@@ -15888,7 +15900,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1325,
+    "id": 1326,
     "verse_key": "39:72",
     "surah_id": 39,
     "verse_id": 72,
@@ -15900,7 +15912,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1326,
+    "id": 1327,
     "verse_key": "39:73",
     "surah_id": 39,
     "verse_id": 73,
@@ -15912,7 +15924,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1327,
+    "id": 1328,
     "verse_key": "39:74",
     "surah_id": 39,
     "verse_id": 74,
@@ -15924,7 +15936,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1328,
+    "id": 1329,
     "verse_key": "40:5",
     "surah_id": 40,
     "verse_id": 5,
@@ -15936,7 +15948,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1329,
+    "id": 1330,
     "verse_key": "40:5",
     "surah_id": 40,
     "verse_id": 5,
@@ -15948,7 +15960,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1330,
+    "id": 1331,
     "verse_key": "40:7",
     "surah_id": 40,
     "verse_id": 7,
@@ -15960,7 +15972,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1331,
+    "id": 1332,
     "verse_key": "40:8",
     "surah_id": 40,
     "verse_id": 8,
@@ -15972,7 +15984,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1332,
+    "id": 1333,
     "verse_key": "40:20",
     "surah_id": 40,
     "verse_id": 20,
@@ -15984,7 +15996,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1333,
+    "id": 1334,
     "verse_key": "40:23",
     "surah_id": 40,
     "verse_id": 23,
@@ -15996,7 +16008,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1334,
+    "id": 1335,
     "verse_key": "40:31",
     "surah_id": 40,
     "verse_id": 31,
@@ -16008,22 +16020,10 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1335,
+    "id": 1336,
     "verse_key": "40:38",
     "surah_id": 40,
     "verse_id": 38,
-    "type": "SPACING",
-    "target": "โอ้ หมู่ชนของฉันเอ๋ย",
-    "replacement": "โอ้หมู่ชนของฉันเอ๋ย",
-    "reason": "ปลดการเคาะวรรคคำร้องเรียก 'โอ้หมู่ชนของฉันเอ๋ย' ให้เขียนติดกันตามต้นฉบับพิมพ์ King Fahd 1990 (De-Overkill Spacing)",
-    "source": "Scholarly LLM Audit (Gemini + Uthmani Cross-Check)",
-    "missing_from_printed_copy": 0
-  },
-  {
-    "id": 1336,
-    "verse_key": "40:39",
-    "surah_id": 40,
-    "verse_id": 39,
     "type": "SPACING",
     "target": "โอ้ หมู่ชนของฉันเอ๋ย",
     "replacement": "โอ้หมู่ชนของฉันเอ๋ย",
@@ -16036,6 +16036,18 @@
     "verse_key": "40:39",
     "surah_id": 40,
     "verse_id": 39,
+    "type": "SPACING",
+    "target": "โอ้ หมู่ชนของฉันเอ๋ย",
+    "replacement": "โอ้หมู่ชนของฉันเอ๋ย",
+    "reason": "ปลดการเคาะวรรคคำร้องเรียก 'โอ้หมู่ชนของฉันเอ๋ย' ให้เขียนติดกันตามต้นฉบับพิมพ์ King Fahd 1990 (De-Overkill Spacing)",
+    "source": "Scholarly LLM Audit (Gemini + Uthmani Cross-Check)",
+    "missing_from_printed_copy": 0
+  },
+  {
+    "id": 1338,
+    "verse_key": "40:39",
+    "surah_id": 40,
+    "verse_id": 39,
     "type": "TYPO",
     "target": "เป็นเพียงแค่ความเพลิดเพลินเท่านั้น",
     "replacement": "เป็นเพียงความเพลิดเพลินเท่านั้น",
@@ -16044,7 +16056,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1338,
+    "id": 1339,
     "verse_key": "40:42",
     "surah_id": 40,
     "verse_id": 42,
@@ -16056,7 +16068,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1339,
+    "id": 1340,
     "verse_key": "40:44",
     "surah_id": 40,
     "verse_id": 44,
@@ -16068,7 +16080,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1340,
+    "id": 1341,
     "verse_key": "40:46",
     "surah_id": 40,
     "verse_id": 46,
@@ -16080,7 +16092,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1341,
+    "id": 1342,
     "verse_key": "40:51",
     "surah_id": 40,
     "verse_id": 51,
@@ -16092,7 +16104,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1342,
+    "id": 1343,
     "verse_key": "40:71",
     "surah_id": 40,
     "verse_id": 71,
@@ -16104,7 +16116,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1343,
+    "id": 1344,
     "verse_key": "40:75",
     "surah_id": 40,
     "verse_id": 75,
@@ -16116,7 +16128,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1344,
+    "id": 1345,
     "verse_key": "40:80",
     "surah_id": 40,
     "verse_id": 80,
@@ -16128,7 +16140,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1345,
+    "id": 1346,
     "verse_key": "41:9",
     "surah_id": 41,
     "verse_id": 9,
@@ -16140,7 +16152,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1346,
+    "id": 1347,
     "verse_key": "41:13",
     "surah_id": 41,
     "verse_id": 13,
@@ -16152,7 +16164,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1347,
+    "id": 1348,
     "verse_key": "41:16",
     "surah_id": 41,
     "verse_id": 16,
@@ -16164,7 +16176,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1348,
+    "id": 1349,
     "verse_key": "41:17",
     "surah_id": 41,
     "verse_id": 17,
@@ -16176,7 +16188,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1349,
+    "id": 1350,
     "verse_key": "41:22",
     "surah_id": 41,
     "verse_id": 22,
@@ -16188,7 +16200,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1350,
+    "id": 1351,
     "verse_key": "41:25",
     "surah_id": 41,
     "verse_id": 25,
@@ -16200,7 +16212,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1351,
+    "id": 1352,
     "verse_key": "41:30",
     "surah_id": 41,
     "verse_id": 30,
@@ -16212,7 +16224,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1352,
+    "id": 1353,
     "verse_key": "41:33",
     "surah_id": 41,
     "verse_id": 33,
@@ -16224,7 +16236,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1353,
+    "id": 1354,
     "verse_key": "41:40",
     "surah_id": 41,
     "verse_id": 40,
@@ -16236,7 +16248,7 @@
     "missing_from_printed_copy": 1
   },
   {
-    "id": 1354,
+    "id": 1355,
     "verse_key": "41:43",
     "surah_id": 41,
     "verse_id": 43,
@@ -16248,7 +16260,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1355,
+    "id": 1356,
     "verse_key": "41:43",
     "surah_id": 41,
     "verse_id": 43,
@@ -16260,7 +16272,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1356,
+    "id": 1357,
     "verse_key": "41:44",
     "surah_id": 41,
     "verse_id": 44,
@@ -16272,7 +16284,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1357,
+    "id": 1358,
     "verse_key": "41:53",
     "surah_id": 41,
     "verse_id": 53,
@@ -16284,7 +16296,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1358,
+    "id": 1359,
     "verse_key": "42:2",
     "surah_id": 42,
     "verse_id": 2,
@@ -16296,7 +16308,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1359,
+    "id": 1360,
     "verse_key": "42:7",
     "surah_id": 42,
     "verse_id": 7,
@@ -16308,7 +16320,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1360,
+    "id": 1361,
     "verse_key": "42:8",
     "surah_id": 42,
     "verse_id": 8,
@@ -16320,7 +16332,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1361,
+    "id": 1362,
     "verse_key": "42:10",
     "surah_id": 42,
     "verse_id": 10,
@@ -16332,7 +16344,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1362,
+    "id": 1363,
     "verse_key": "42:11",
     "surah_id": 42,
     "verse_id": 11,
@@ -16344,7 +16356,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1363,
+    "id": 1364,
     "verse_key": "42:13",
     "surah_id": 42,
     "verse_id": 13,
@@ -16356,7 +16368,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1364,
+    "id": 1365,
     "verse_key": "42:13",
     "surah_id": 42,
     "verse_id": 13,
@@ -16368,7 +16380,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1365,
+    "id": 1366,
     "verse_key": "42:15",
     "surah_id": 42,
     "verse_id": 15,
@@ -16380,7 +16392,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1366,
+    "id": 1367,
     "verse_key": "42:15",
     "surah_id": 42,
     "verse_id": 15,
@@ -16392,7 +16404,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1367,
+    "id": 1368,
     "verse_key": "42:36",
     "surah_id": 42,
     "verse_id": 36,
@@ -16404,7 +16416,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1368,
+    "id": 1369,
     "verse_key": "42:40",
     "surah_id": 42,
     "verse_id": 40,
@@ -16416,7 +16428,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1369,
+    "id": 1370,
     "verse_key": "43:3",
     "surah_id": 43,
     "verse_id": 3,
@@ -16428,7 +16440,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1370,
+    "id": 1371,
     "verse_key": "43:9",
     "surah_id": 43,
     "verse_id": 9,
@@ -16440,7 +16452,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1371,
+    "id": 1372,
     "verse_key": "43:18",
     "surah_id": 43,
     "verse_id": 18,
@@ -16452,7 +16464,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1372,
+    "id": 1373,
     "verse_key": "43:28",
     "surah_id": 43,
     "verse_id": 28,
@@ -16464,7 +16476,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1373,
+    "id": 1374,
     "verse_key": "43:35",
     "surah_id": 43,
     "verse_id": 35,
@@ -16476,7 +16488,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1374,
+    "id": 1375,
     "verse_key": "43:43",
     "surah_id": 43,
     "verse_id": 43,
@@ -16488,7 +16500,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1375,
+    "id": 1376,
     "verse_key": "43:48",
     "surah_id": 43,
     "verse_id": 48,
@@ -16500,7 +16512,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1376,
+    "id": 1377,
     "verse_key": "43:56",
     "surah_id": 43,
     "verse_id": 56,
@@ -16512,7 +16524,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1377,
+    "id": 1378,
     "verse_key": "43:59",
     "surah_id": 43,
     "verse_id": 59,
@@ -16524,7 +16536,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1378,
+    "id": 1379,
     "verse_key": "43:64",
     "surah_id": 43,
     "verse_id": 64,
@@ -16536,7 +16548,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1379,
+    "id": 1380,
     "verse_key": "43:71",
     "surah_id": 43,
     "verse_id": 71,
@@ -16548,7 +16560,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1380,
+    "id": 1381,
     "verse_key": "43:85",
     "surah_id": 43,
     "verse_id": 85,
@@ -16560,7 +16572,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1381,
+    "id": 1382,
     "verse_key": "44:7",
     "surah_id": 44,
     "verse_id": 7,
@@ -16572,7 +16584,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1382,
+    "id": 1383,
     "verse_key": "44:9",
     "surah_id": 44,
     "verse_id": 9,
@@ -16584,7 +16596,7 @@
     "missing_from_printed_copy": 1
   },
   {
-    "id": 1383,
+    "id": 1384,
     "verse_key": "44:20",
     "surah_id": 44,
     "verse_id": 20,
@@ -16596,7 +16608,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1384,
+    "id": 1385,
     "verse_key": "44:29",
     "surah_id": 44,
     "verse_id": 29,
@@ -16608,7 +16620,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1385,
+    "id": 1386,
     "verse_key": "44:50",
     "surah_id": 44,
     "verse_id": 50,
@@ -16620,7 +16632,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1386,
+    "id": 1387,
     "verse_key": "44:53",
     "surah_id": 44,
     "verse_id": 53,
@@ -16632,7 +16644,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1387,
+    "id": 1388,
     "verse_key": "45:29",
     "surah_id": 45,
     "verse_id": 29,
@@ -16644,7 +16656,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1388,
+    "id": 1389,
     "verse_key": "45:32",
     "surah_id": 45,
     "verse_id": 32,
@@ -16656,7 +16668,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1389,
+    "id": 1390,
     "verse_key": "46:3",
     "surah_id": 46,
     "verse_id": 3,
@@ -16668,7 +16680,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1390,
+    "id": 1391,
     "verse_key": "46:4",
     "surah_id": 46,
     "verse_id": 4,
@@ -16680,7 +16692,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1391,
+    "id": 1392,
     "verse_key": "46:10",
     "surah_id": 46,
     "verse_id": 10,
@@ -16692,7 +16704,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1392,
+    "id": 1393,
     "verse_key": "46:12",
     "surah_id": 46,
     "verse_id": 12,
@@ -16704,7 +16716,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1393,
+    "id": 1394,
     "verse_key": "46:13",
     "surah_id": 46,
     "verse_id": 13,
@@ -16716,7 +16728,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1394,
+    "id": 1395,
     "verse_key": "46:15",
     "surah_id": 46,
     "verse_id": 15,
@@ -16728,7 +16740,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1395,
+    "id": 1396,
     "verse_key": "46:16",
     "surah_id": 46,
     "verse_id": 16,
@@ -16740,7 +16752,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1396,
+    "id": 1397,
     "verse_key": "46:25",
     "surah_id": 46,
     "verse_id": 25,
@@ -16752,7 +16764,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1397,
+    "id": 1398,
     "verse_key": "46:27",
     "surah_id": 46,
     "verse_id": 27,
@@ -16764,7 +16776,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1398,
+    "id": 1399,
     "verse_key": "46:28",
     "surah_id": 46,
     "verse_id": 28,
@@ -16776,7 +16788,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1399,
+    "id": 1400,
     "verse_key": "46:29",
     "surah_id": 46,
     "verse_id": 29,
@@ -16788,7 +16800,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1400,
+    "id": 1401,
     "verse_key": "46:30",
     "surah_id": 46,
     "verse_id": 30,
@@ -16800,7 +16812,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1401,
+    "id": 1402,
     "verse_key": "46:33",
     "surah_id": 46,
     "verse_id": 33,
@@ -16812,7 +16824,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1402,
+    "id": 1403,
     "verse_key": "46:35",
     "surah_id": 46,
     "verse_id": 35,
@@ -16824,7 +16836,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1403,
+    "id": 1404,
     "verse_key": "47:4",
     "surah_id": 47,
     "verse_id": 4,
@@ -16836,7 +16848,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1404,
+    "id": 1405,
     "verse_key": "47:7",
     "surah_id": 47,
     "verse_id": 7,
@@ -16848,7 +16860,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1405,
+    "id": 1406,
     "verse_key": "47:10",
     "surah_id": 47,
     "verse_id": 10,
@@ -16860,7 +16872,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1406,
+    "id": 1407,
     "verse_key": "47:12",
     "surah_id": 47,
     "verse_id": 12,
@@ -16872,7 +16884,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1407,
+    "id": 1408,
     "verse_key": "47:12",
     "surah_id": 47,
     "verse_id": 12,
@@ -16884,7 +16896,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1408,
+    "id": 1409,
     "verse_key": "47:15",
     "surah_id": 47,
     "verse_id": 15,
@@ -16896,7 +16908,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1409,
+    "id": 1410,
     "verse_key": "47:15",
     "surah_id": 47,
     "verse_id": 15,
@@ -16908,7 +16920,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1410,
+    "id": 1411,
     "verse_key": "47:17",
     "surah_id": 47,
     "verse_id": 17,
@@ -16920,7 +16932,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1411,
+    "id": 1412,
     "verse_key": "47:19",
     "surah_id": 47,
     "verse_id": 19,
@@ -16932,7 +16944,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1412,
+    "id": 1413,
     "verse_key": "47:22",
     "surah_id": 47,
     "verse_id": 22,
@@ -16944,7 +16956,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1413,
+    "id": 1414,
     "verse_key": "47:25",
     "surah_id": 47,
     "verse_id": 25,
@@ -16956,7 +16968,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1414,
+    "id": 1415,
     "verse_key": "47:26",
     "surah_id": 47,
     "verse_id": 26,
@@ -16968,7 +16980,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1415,
+    "id": 1416,
     "verse_key": "47:30",
     "surah_id": 47,
     "verse_id": 30,
@@ -16980,7 +16992,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1416,
+    "id": 1417,
     "verse_key": "47:35",
     "surah_id": 47,
     "verse_id": 35,
@@ -16992,7 +17004,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1417,
+    "id": 1418,
     "verse_key": "47:37",
     "surah_id": 47,
     "verse_id": 37,
@@ -17004,7 +17016,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1418,
+    "id": 1419,
     "verse_key": "48:4",
     "surah_id": 48,
     "verse_id": 4,
@@ -17016,7 +17028,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1419,
+    "id": 1420,
     "verse_key": "48:6",
     "surah_id": 48,
     "verse_id": 6,
@@ -17028,7 +17040,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1420,
+    "id": 1421,
     "verse_key": "48:7",
     "surah_id": 48,
     "verse_id": 7,
@@ -17040,7 +17052,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1421,
+    "id": 1422,
     "verse_key": "48:9",
     "surah_id": 48,
     "verse_id": 9,
@@ -17052,7 +17064,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1422,
+    "id": 1423,
     "verse_key": "48:10",
     "surah_id": 48,
     "verse_id": 10,
@@ -17064,7 +17076,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1423,
+    "id": 1424,
     "verse_key": "48:10",
     "surah_id": 48,
     "verse_id": 10,
@@ -17076,7 +17088,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1424,
+    "id": 1425,
     "verse_key": "48:11",
     "surah_id": 48,
     "verse_id": 11,
@@ -17088,7 +17100,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1425,
+    "id": 1426,
     "verse_key": "48:12",
     "surah_id": 48,
     "verse_id": 12,
@@ -17100,7 +17112,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1426,
+    "id": 1427,
     "verse_key": "48:13",
     "surah_id": 48,
     "verse_id": 13,
@@ -17112,7 +17124,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1427,
+    "id": 1428,
     "verse_key": "48:15",
     "surah_id": 48,
     "verse_id": 15,
@@ -17124,7 +17136,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1428,
+    "id": 1429,
     "verse_key": "48:16",
     "surah_id": 48,
     "verse_id": 16,
@@ -17136,7 +17148,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1429,
+    "id": 1430,
     "verse_key": "48:17",
     "surah_id": 48,
     "verse_id": 17,
@@ -17148,7 +17160,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1430,
+    "id": 1431,
     "verse_key": "48:18",
     "surah_id": 48,
     "verse_id": 18,
@@ -17160,7 +17172,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1431,
+    "id": 1432,
     "verse_key": "48:18",
     "surah_id": 48,
     "verse_id": 18,
@@ -17172,7 +17184,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1432,
+    "id": 1433,
     "verse_key": "48:24",
     "surah_id": 48,
     "verse_id": 24,
@@ -17184,7 +17196,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1433,
+    "id": 1434,
     "verse_key": "48:25",
     "surah_id": 48,
     "verse_id": 25,
@@ -17196,7 +17208,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1434,
+    "id": 1435,
     "verse_key": "48:25",
     "surah_id": 48,
     "verse_id": 25,
@@ -17208,7 +17220,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1435,
+    "id": 1436,
     "verse_key": "48:26",
     "surah_id": 48,
     "verse_id": 26,
@@ -17220,7 +17232,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1436,
+    "id": 1437,
     "verse_key": "48:27",
     "surah_id": 48,
     "verse_id": 27,
@@ -17232,7 +17244,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1437,
+    "id": 1438,
     "verse_key": "48:27",
     "surah_id": 48,
     "verse_id": 27,
@@ -17244,7 +17256,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1438,
+    "id": 1439,
     "verse_key": "48:29",
     "surah_id": 48,
     "verse_id": 29,
@@ -17256,7 +17268,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1439,
+    "id": 1440,
     "verse_key": "48:29",
     "surah_id": 48,
     "verse_id": 29,
@@ -17268,7 +17280,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1440,
+    "id": 1441,
     "verse_key": "49:1",
     "surah_id": 49,
     "verse_id": 1,
@@ -17280,7 +17292,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1441,
+    "id": 1442,
     "verse_key": "49:5",
     "surah_id": 49,
     "verse_id": 5,
@@ -17292,7 +17304,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1442,
+    "id": 1443,
     "verse_key": "49:7",
     "surah_id": 49,
     "verse_id": 7,
@@ -17304,7 +17316,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1443,
+    "id": 1444,
     "verse_key": "49:11",
     "surah_id": 49,
     "verse_id": 11,
@@ -17316,7 +17328,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1444,
+    "id": 1445,
     "verse_key": "49:13",
     "surah_id": 49,
     "verse_id": 13,
@@ -17328,7 +17340,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1445,
+    "id": 1446,
     "verse_key": "49:14",
     "surah_id": 49,
     "verse_id": 14,
@@ -17340,7 +17352,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1446,
+    "id": 1447,
     "verse_key": "49:15",
     "surah_id": 49,
     "verse_id": 15,
@@ -17352,7 +17364,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1447,
+    "id": 1448,
     "verse_key": "49:16",
     "surah_id": 49,
     "verse_id": 16,
@@ -17364,7 +17376,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1448,
+    "id": 1449,
     "verse_key": "49:18",
     "surah_id": 49,
     "verse_id": 18,
@@ -17376,7 +17388,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1449,
+    "id": 1450,
     "verse_key": "50:1",
     "surah_id": 50,
     "verse_id": 1,
@@ -17388,7 +17400,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1450,
+    "id": 1451,
     "verse_key": "50:4",
     "surah_id": 50,
     "verse_id": 4,
@@ -17400,7 +17412,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1451,
+    "id": 1452,
     "verse_key": "50:10",
     "surah_id": 50,
     "verse_id": 10,
@@ -17412,7 +17424,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1452,
+    "id": 1453,
     "verse_key": "50:12",
     "surah_id": 50,
     "verse_id": 12,
@@ -17424,7 +17436,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1453,
+    "id": 1454,
     "verse_key": "50:13",
     "surah_id": 50,
     "verse_id": 13,
@@ -17436,7 +17448,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1454,
+    "id": 1455,
     "verse_key": "50:27",
     "surah_id": 50,
     "verse_id": 27,
@@ -17448,7 +17460,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1455,
+    "id": 1456,
     "verse_key": "51:4",
     "surah_id": 51,
     "verse_id": 4,
@@ -17460,7 +17472,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1456,
+    "id": 1457,
     "verse_key": "51:17",
     "surah_id": 51,
     "verse_id": 17,
@@ -17472,7 +17484,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1457,
+    "id": 1458,
     "verse_key": "51:25",
     "surah_id": 51,
     "verse_id": 25,
@@ -17484,7 +17496,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1458,
+    "id": 1459,
     "verse_key": "51:30",
     "surah_id": 51,
     "verse_id": 30,
@@ -17496,7 +17508,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1459,
+    "id": 1460,
     "verse_key": "51:31",
     "surah_id": 51,
     "verse_id": 31,
@@ -17508,7 +17520,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1460,
+    "id": 1461,
     "verse_key": "51:46",
     "surah_id": 51,
     "verse_id": 46,
@@ -17520,7 +17532,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1461,
+    "id": 1462,
     "verse_key": "51:47",
     "surah_id": 51,
     "verse_id": 47,
@@ -17532,7 +17544,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1462,
+    "id": 1463,
     "verse_key": "51:60",
     "surah_id": 51,
     "verse_id": 60,
@@ -17544,7 +17556,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1463,
+    "id": 1464,
     "verse_key": "52:18",
     "surah_id": 52,
     "verse_id": 18,
@@ -17556,7 +17568,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1464,
+    "id": 1465,
     "verse_key": "52:20",
     "surah_id": 52,
     "verse_id": 20,
@@ -17568,7 +17580,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1465,
+    "id": 1466,
     "verse_key": "52:23",
     "surah_id": 52,
     "verse_id": 23,
@@ -17580,7 +17592,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1466,
+    "id": 1467,
     "verse_key": "52:27",
     "surah_id": 52,
     "verse_id": 27,
@@ -17592,7 +17604,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1467,
+    "id": 1468,
     "verse_key": "52:28",
     "surah_id": 52,
     "verse_id": 28,
@@ -17604,7 +17616,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1468,
+    "id": 1469,
     "verse_key": "52:29",
     "surah_id": 52,
     "verse_id": 29,
@@ -17616,7 +17628,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1469,
+    "id": 1470,
     "verse_key": "52:38",
     "surah_id": 52,
     "verse_id": 38,
@@ -17628,7 +17640,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1470,
+    "id": 1471,
     "verse_key": "53:19",
     "surah_id": 53,
     "verse_id": 19,
@@ -17640,7 +17652,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1471,
+    "id": 1472,
     "verse_key": "53:21",
     "surah_id": 53,
     "verse_id": 21,
@@ -17652,7 +17664,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1472,
+    "id": 1473,
     "verse_key": "53:24",
     "surah_id": 53,
     "verse_id": 24,
@@ -17664,7 +17676,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1473,
+    "id": 1474,
     "verse_key": "53:32",
     "surah_id": 53,
     "verse_id": 32,
@@ -17676,7 +17688,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1474,
+    "id": 1475,
     "verse_key": "53:49",
     "surah_id": 53,
     "verse_id": 49,
@@ -17688,7 +17700,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1475,
+    "id": 1476,
     "verse_key": "53:50",
     "surah_id": 53,
     "verse_id": 50,
@@ -17700,7 +17712,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1476,
+    "id": 1477,
     "verse_key": "53:52",
     "surah_id": 53,
     "verse_id": 52,
@@ -17712,7 +17724,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1477,
+    "id": 1478,
     "verse_key": "54:1",
     "surah_id": 54,
     "verse_id": 1,
@@ -17724,7 +17736,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1478,
+    "id": 1479,
     "verse_key": "54:9",
     "surah_id": 54,
     "verse_id": 9,
@@ -17736,7 +17748,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1479,
+    "id": 1480,
     "verse_key": "54:14",
     "surah_id": 54,
     "verse_id": 14,
@@ -17748,7 +17760,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1480,
+    "id": 1481,
     "verse_key": "54:23",
     "surah_id": 54,
     "verse_id": 23,
@@ -17760,7 +17772,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1481,
+    "id": 1482,
     "verse_key": "54:27",
     "surah_id": 54,
     "verse_id": 27,
@@ -17772,7 +17784,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1482,
+    "id": 1483,
     "verse_key": "54:31",
     "surah_id": 54,
     "verse_id": 31,
@@ -17784,7 +17796,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1483,
+    "id": 1484,
     "verse_key": "54:42",
     "surah_id": 54,
     "verse_id": 42,
@@ -17796,7 +17808,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1484,
+    "id": 1485,
     "verse_key": "55:28",
     "surah_id": 55,
     "verse_id": 28,
@@ -17808,7 +17820,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1485,
+    "id": 1486,
     "verse_key": "55:29",
     "surah_id": 55,
     "verse_id": 29,
@@ -17820,7 +17832,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1486,
+    "id": 1487,
     "verse_key": "55:38",
     "surah_id": 55,
     "verse_id": 38,
@@ -17832,7 +17844,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1487,
+    "id": 1488,
     "verse_key": "55:59",
     "surah_id": 55,
     "verse_id": 59,
@@ -17844,7 +17856,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1488,
+    "id": 1489,
     "verse_key": "55:63",
     "surah_id": 55,
     "verse_id": 63,
@@ -17856,7 +17868,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1489,
+    "id": 1490,
     "verse_key": "56:46",
     "surah_id": 56,
     "verse_id": 46,
@@ -17868,7 +17880,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1490,
+    "id": 1491,
     "verse_key": "56:48",
     "surah_id": 56,
     "verse_id": 48,
@@ -17880,7 +17892,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1491,
+    "id": 1492,
     "verse_key": "56:63",
     "surah_id": 56,
     "verse_id": 63,
@@ -17892,7 +17904,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1492,
+    "id": 1493,
     "verse_key": "56:70",
     "surah_id": 56,
     "verse_id": 70,
@@ -17904,7 +17916,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1493,
+    "id": 1494,
     "verse_key": "56:95",
     "surah_id": 56,
     "verse_id": 95,
@@ -17916,7 +17928,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1494,
+    "id": 1495,
     "verse_key": "56:96",
     "surah_id": 56,
     "verse_id": 96,
@@ -17928,7 +17940,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1495,
+    "id": 1496,
     "verse_key": "56:96",
     "surah_id": 56,
     "verse_id": 96,
@@ -17940,7 +17952,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1496,
+    "id": 1497,
     "verse_key": "57:7",
     "surah_id": 57,
     "verse_id": 7,
@@ -17952,7 +17964,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1497,
+    "id": 1498,
     "verse_key": "57:12",
     "surah_id": 57,
     "verse_id": 12,
@@ -17964,7 +17976,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1498,
+    "id": 1499,
     "verse_key": "57:25",
     "surah_id": 57,
     "verse_id": 25,
@@ -17976,7 +17988,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1499,
+    "id": 1500,
     "verse_key": "57:26",
     "surah_id": 57,
     "verse_id": 26,
@@ -17988,7 +18000,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1500,
+    "id": 1501,
     "verse_key": "58:10",
     "surah_id": 58,
     "verse_id": 10,
@@ -18000,7 +18012,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1501,
+    "id": 1502,
     "verse_key": "58:14",
     "surah_id": 58,
     "verse_id": 14,
@@ -18012,7 +18024,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1502,
+    "id": 1503,
     "verse_key": "58:21",
     "surah_id": 58,
     "verse_id": 21,
@@ -18024,7 +18036,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1503,
+    "id": 1504,
     "verse_key": "59:9",
     "surah_id": 59,
     "verse_id": 9,
@@ -18036,7 +18048,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1504,
+    "id": 1505,
     "verse_key": "59:23",
     "surah_id": 59,
     "verse_id": 23,
@@ -18048,7 +18060,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1505,
+    "id": 1506,
     "verse_key": "60:1",
     "surah_id": 60,
     "verse_id": 1,
@@ -18060,7 +18072,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1506,
+    "id": 1507,
     "verse_key": "61:6",
     "surah_id": 61,
     "verse_id": 6,
@@ -18072,7 +18084,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1507,
+    "id": 1508,
     "verse_key": "62:9",
     "surah_id": 62,
     "verse_id": 9,
@@ -18084,7 +18096,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1508,
+    "id": 1509,
     "verse_key": "63:2",
     "surah_id": 63,
     "verse_id": 2,
@@ -18096,7 +18108,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1509,
+    "id": 1510,
     "verse_key": "63:5",
     "surah_id": 63,
     "verse_id": 5,
@@ -18108,7 +18120,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1510,
+    "id": 1511,
     "verse_key": "63:6",
     "surah_id": 63,
     "verse_id": 6,
@@ -18120,7 +18132,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1511,
+    "id": 1512,
     "verse_key": "63:11",
     "surah_id": 63,
     "verse_id": 11,
@@ -18132,7 +18144,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1512,
+    "id": 1513,
     "verse_key": "64:13",
     "surah_id": 64,
     "verse_id": 13,
@@ -18144,7 +18156,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1513,
+    "id": 1514,
     "verse_key": "64:14",
     "surah_id": 64,
     "verse_id": 14,
@@ -18156,7 +18168,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1514,
+    "id": 1515,
     "verse_key": "65:4",
     "surah_id": 65,
     "verse_id": 4,
@@ -18168,7 +18180,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1515,
+    "id": 1516,
     "verse_key": "65:9",
     "surah_id": 65,
     "verse_id": 9,
@@ -18180,7 +18192,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1516,
+    "id": 1517,
     "verse_key": "66:2",
     "surah_id": 66,
     "verse_id": 2,
@@ -18192,7 +18204,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1517,
+    "id": 1518,
     "verse_key": "66:5",
     "surah_id": 66,
     "verse_id": 5,
@@ -18204,7 +18216,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1518,
+    "id": 1519,
     "verse_key": "66:10",
     "surah_id": 66,
     "verse_id": 10,
@@ -18216,7 +18228,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1519,
+    "id": 1520,
     "verse_key": "66:12",
     "surah_id": 66,
     "verse_id": 12,
@@ -18228,7 +18240,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1520,
+    "id": 1521,
     "verse_key": "67:2",
     "surah_id": 67,
     "verse_id": 2,
@@ -18240,7 +18252,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1521,
+    "id": 1522,
     "verse_key": "67:3",
     "surah_id": 67,
     "verse_id": 3,
@@ -18252,7 +18264,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1522,
+    "id": 1523,
     "verse_key": "67:7",
     "surah_id": 67,
     "verse_id": 7,
@@ -18264,7 +18276,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1523,
+    "id": 1524,
     "verse_key": "67:16",
     "surah_id": 67,
     "verse_id": 16,
@@ -18276,7 +18288,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1524,
+    "id": 1525,
     "verse_key": "67:20",
     "surah_id": 67,
     "verse_id": 20,
@@ -18288,7 +18300,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1525,
+    "id": 1526,
     "verse_key": "67:21",
     "surah_id": 67,
     "verse_id": 21,
@@ -18300,7 +18312,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1526,
+    "id": 1527,
     "verse_key": "67:30",
     "surah_id": 67,
     "verse_id": 30,
@@ -18312,7 +18324,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1527,
+    "id": 1528,
     "verse_key": "68:8",
     "surah_id": 68,
     "verse_id": 8,
@@ -18324,7 +18336,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1528,
+    "id": 1529,
     "verse_key": "68:10",
     "surah_id": 68,
     "verse_id": 10,
@@ -18336,7 +18348,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1529,
+    "id": 1530,
     "verse_key": "68:18",
     "surah_id": 68,
     "verse_id": 18,
@@ -18348,7 +18360,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1530,
+    "id": 1531,
     "verse_key": "68:30",
     "surah_id": 68,
     "verse_id": 30,
@@ -18360,7 +18372,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1531,
+    "id": 1532,
     "verse_key": "69:7",
     "surah_id": 69,
     "verse_id": 7,
@@ -18372,7 +18384,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1532,
+    "id": 1533,
     "verse_key": "69:11",
     "surah_id": 69,
     "verse_id": 11,
@@ -18384,7 +18396,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1533,
+    "id": 1534,
     "verse_key": "69:18",
     "surah_id": 69,
     "verse_id": 18,
@@ -18396,7 +18408,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1534,
+    "id": 1535,
     "verse_key": "69:25",
     "surah_id": 69,
     "verse_id": 25,
@@ -18408,7 +18420,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1535,
+    "id": 1536,
     "verse_key": "69:41",
     "surah_id": 69,
     "verse_id": 41,
@@ -18420,7 +18432,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1536,
+    "id": 1537,
     "verse_key": "69:46",
     "surah_id": 69,
     "verse_id": 46,
@@ -18432,7 +18444,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1537,
+    "id": 1538,
     "verse_key": "70:25",
     "surah_id": 70,
     "verse_id": 25,
@@ -18444,7 +18456,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1538,
+    "id": 1539,
     "verse_key": "70:35",
     "surah_id": 70,
     "verse_id": 35,
@@ -18456,7 +18468,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1539,
+    "id": 1540,
     "verse_key": "70:38",
     "surah_id": 70,
     "verse_id": 38,
@@ -18468,7 +18480,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1540,
+    "id": 1541,
     "verse_key": "70:42",
     "surah_id": 70,
     "verse_id": 42,
@@ -18480,7 +18492,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1541,
+    "id": 1542,
     "verse_key": "71:1",
     "surah_id": 71,
     "verse_id": 1,
@@ -18492,7 +18504,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1542,
+    "id": 1543,
     "verse_key": "71:7",
     "surah_id": 71,
     "verse_id": 7,
@@ -18504,7 +18516,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1543,
+    "id": 1544,
     "verse_key": "71:9",
     "surah_id": 71,
     "verse_id": 9,
@@ -18516,7 +18528,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1544,
+    "id": 1545,
     "verse_key": "71:10",
     "surah_id": 71,
     "verse_id": 10,
@@ -18528,7 +18540,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1545,
+    "id": 1546,
     "verse_key": "71:13",
     "surah_id": 71,
     "verse_id": 13,
@@ -18540,7 +18552,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1546,
+    "id": 1547,
     "verse_key": "71:15",
     "surah_id": 71,
     "verse_id": 15,
@@ -18552,7 +18564,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1547,
+    "id": 1548,
     "verse_key": "71:16",
     "surah_id": 71,
     "verse_id": 16,
@@ -18564,7 +18576,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1548,
+    "id": 1549,
     "verse_key": "71:17",
     "surah_id": 71,
     "verse_id": 17,
@@ -18576,7 +18588,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1549,
+    "id": 1550,
     "verse_key": "71:18",
     "surah_id": 71,
     "verse_id": 18,
@@ -18588,7 +18600,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1550,
+    "id": 1551,
     "verse_key": "71:21",
     "surah_id": 71,
     "verse_id": 21,
@@ -18600,7 +18612,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1551,
+    "id": 1552,
     "verse_key": "71:21",
     "surah_id": 71,
     "verse_id": 21,
@@ -18612,7 +18624,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1552,
+    "id": 1553,
     "verse_key": "71:25",
     "surah_id": 71,
     "verse_id": 25,
@@ -18624,7 +18636,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1553,
+    "id": 1554,
     "verse_key": "71:25",
     "surah_id": 71,
     "verse_id": 25,
@@ -18636,7 +18648,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1554,
+    "id": 1555,
     "verse_key": "71:26",
     "surah_id": 71,
     "verse_id": 26,
@@ -18648,7 +18660,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1555,
+    "id": 1556,
     "verse_key": "71:28",
     "surah_id": 71,
     "verse_id": 28,
@@ -18660,7 +18672,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1556,
+    "id": 1557,
     "verse_key": "72:4",
     "surah_id": 72,
     "verse_id": 4,
@@ -18672,7 +18684,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1557,
+    "id": 1558,
     "verse_key": "72:8",
     "surah_id": 72,
     "verse_id": 8,
@@ -18684,7 +18696,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1558,
+    "id": 1559,
     "verse_key": "72:9",
     "surah_id": 72,
     "verse_id": 9,
@@ -18696,7 +18708,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1559,
+    "id": 1560,
     "verse_key": "72:27",
     "surah_id": 72,
     "verse_id": 27,
@@ -18708,7 +18720,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1560,
+    "id": 1561,
     "verse_key": "73:12",
     "surah_id": 73,
     "verse_id": 12,
@@ -18720,7 +18732,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1561,
+    "id": 1562,
     "verse_key": "73:20",
     "surah_id": 73,
     "verse_id": 20,
@@ -18732,7 +18744,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1562,
+    "id": 1563,
     "verse_key": "74:5",
     "surah_id": 74,
     "verse_id": 5,
@@ -18744,7 +18756,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1563,
+    "id": 1564,
     "verse_key": "74:11",
     "surah_id": 74,
     "verse_id": 11,
@@ -18756,7 +18768,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1564,
+    "id": 1565,
     "verse_key": "74:18",
     "surah_id": 74,
     "verse_id": 18,
@@ -18768,7 +18780,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1565,
+    "id": 1566,
     "verse_key": "74:26",
     "surah_id": 74,
     "verse_id": 26,
@@ -18780,7 +18792,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1566,
+    "id": 1567,
     "verse_key": "74:31",
     "surah_id": 74,
     "verse_id": 31,
@@ -18792,7 +18804,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1567,
+    "id": 1568,
     "verse_key": "74:55",
     "surah_id": 74,
     "verse_id": 55,
@@ -18804,7 +18816,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1568,
+    "id": 1569,
     "verse_key": "75:5",
     "surah_id": 75,
     "verse_id": 5,
@@ -18816,7 +18828,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1569,
+    "id": 1570,
     "verse_key": "75:5",
     "surah_id": 75,
     "verse_id": 5,
@@ -18828,7 +18840,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1570,
+    "id": 1571,
     "verse_key": "75:21",
     "surah_id": 75,
     "verse_id": 21,
@@ -18840,7 +18852,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1571,
+    "id": 1572,
     "verse_key": "75:33",
     "surah_id": 75,
     "verse_id": 33,
@@ -18852,7 +18864,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1572,
+    "id": 1573,
     "verse_key": "75:36",
     "surah_id": 75,
     "verse_id": 36,
@@ -18864,7 +18876,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1573,
+    "id": 1574,
     "verse_key": "75:37",
     "surah_id": 75,
     "verse_id": 37,
@@ -18876,7 +18888,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1574,
+    "id": 1575,
     "verse_key": "75:40",
     "surah_id": 75,
     "verse_id": 40,
@@ -18888,7 +18900,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1575,
+    "id": 1576,
     "verse_key": "76:2",
     "surah_id": 76,
     "verse_id": 2,
@@ -18900,7 +18912,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1576,
+    "id": 1577,
     "verse_key": "76:2",
     "surah_id": 76,
     "verse_id": 2,
@@ -18912,7 +18924,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1577,
+    "id": 1578,
     "verse_key": "76:17",
     "surah_id": 76,
     "verse_id": 17,
@@ -18924,7 +18936,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1578,
+    "id": 1579,
     "verse_key": "76:26",
     "surah_id": 76,
     "verse_id": 26,
@@ -18936,7 +18948,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1579,
+    "id": 1580,
     "verse_key": "76:29",
     "surah_id": 76,
     "verse_id": 29,
@@ -18948,7 +18960,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1580,
+    "id": 1581,
     "verse_key": "76:30",
     "surah_id": 76,
     "verse_id": 30,
@@ -18960,7 +18972,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1581,
+    "id": 1582,
     "verse_key": "77:5",
     "surah_id": 77,
     "verse_id": 5,
@@ -18972,7 +18984,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1582,
+    "id": 1583,
     "verse_key": "77:7",
     "surah_id": 77,
     "verse_id": 7,
@@ -18984,7 +18996,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1583,
+    "id": 1584,
     "verse_key": "77:12",
     "surah_id": 77,
     "verse_id": 12,
@@ -18996,7 +19008,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1584,
+    "id": 1585,
     "verse_key": "77:26",
     "surah_id": 77,
     "verse_id": 26,
@@ -19008,7 +19020,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1585,
+    "id": 1586,
     "verse_key": "77:48",
     "surah_id": 77,
     "verse_id": 48,
@@ -19020,7 +19032,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1586,
+    "id": 1587,
     "verse_key": "77:50",
     "surah_id": 77,
     "verse_id": 50,
@@ -19032,7 +19044,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1587,
+    "id": 1588,
     "verse_key": "78:7",
     "surah_id": 78,
     "verse_id": 7,
@@ -19044,7 +19056,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1588,
+    "id": 1589,
     "verse_key": "78:13",
     "surah_id": 78,
     "verse_id": 13,
@@ -19056,7 +19068,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1589,
+    "id": 1590,
     "verse_key": "78:25",
     "surah_id": 78,
     "verse_id": 25,
@@ -19068,7 +19080,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1590,
+    "id": 1591,
     "verse_key": "78:26",
     "surah_id": 78,
     "verse_id": 26,
@@ -19080,7 +19092,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1591,
+    "id": 1592,
     "verse_key": "78:27",
     "surah_id": 78,
     "verse_id": 27,
@@ -19092,7 +19104,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1592,
+    "id": 1593,
     "verse_key": "78:29",
     "surah_id": 78,
     "verse_id": 29,
@@ -19104,7 +19116,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1593,
+    "id": 1594,
     "verse_key": "78:37",
     "surah_id": 78,
     "verse_id": 37,
@@ -19116,7 +19128,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1594,
+    "id": 1595,
     "verse_key": "78:39",
     "surah_id": 78,
     "verse_id": 39,
@@ -19128,7 +19140,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1595,
+    "id": 1596,
     "verse_key": "79:11",
     "surah_id": 79,
     "verse_id": 11,
@@ -19140,7 +19152,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1596,
+    "id": 1597,
     "verse_key": "79:19",
     "surah_id": 79,
     "verse_id": 19,
@@ -19152,7 +19164,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1597,
+    "id": 1598,
     "verse_key": "79:21",
     "surah_id": 79,
     "verse_id": 21,
@@ -19164,7 +19176,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1598,
+    "id": 1599,
     "verse_key": "79:37",
     "surah_id": 79,
     "verse_id": 37,
@@ -19176,7 +19188,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1599,
+    "id": 1600,
     "verse_key": "79:46",
     "surah_id": 79,
     "verse_id": 46,
@@ -19188,7 +19200,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1600,
+    "id": 1601,
     "verse_key": "80:24",
     "surah_id": 80,
     "verse_id": 24,
@@ -19200,7 +19212,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1601,
+    "id": 1602,
     "verse_key": "80:40",
     "surah_id": 80,
     "verse_id": 40,
@@ -19212,7 +19224,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1602,
+    "id": 1603,
     "verse_key": "81:9",
     "surah_id": 81,
     "verse_id": 9,
@@ -19224,7 +19236,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1603,
+    "id": 1604,
     "verse_key": "81:21",
     "surah_id": 81,
     "verse_id": 21,
@@ -19236,7 +19248,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1604,
+    "id": 1605,
     "verse_key": "81:25",
     "surah_id": 81,
     "verse_id": 25,
@@ -19248,7 +19260,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1605,
+    "id": 1606,
     "verse_key": "83:2",
     "surah_id": 83,
     "verse_id": 2,
@@ -19260,7 +19272,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1606,
+    "id": 1607,
     "verse_key": "83:3",
     "surah_id": 83,
     "verse_id": 3,
@@ -19272,7 +19284,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1607,
+    "id": 1608,
     "verse_key": "83:13",
     "surah_id": 83,
     "verse_id": 13,
@@ -19284,7 +19296,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1608,
+    "id": 1609,
     "verse_key": "83:14",
     "surah_id": 83,
     "verse_id": 14,
@@ -19296,7 +19308,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1609,
+    "id": 1610,
     "verse_key": "83:16",
     "surah_id": 83,
     "verse_id": 16,
@@ -19308,7 +19320,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1610,
+    "id": 1611,
     "verse_key": "83:26",
     "surah_id": 83,
     "verse_id": 26,
@@ -19320,7 +19332,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1611,
+    "id": 1612,
     "verse_key": "83:27",
     "surah_id": 83,
     "verse_id": 27,
@@ -19332,7 +19344,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1612,
+    "id": 1613,
     "verse_key": "83:32",
     "surah_id": 83,
     "verse_id": 32,
@@ -19344,7 +19356,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1613,
+    "id": 1614,
     "verse_key": "83:36",
     "surah_id": 83,
     "verse_id": 36,
@@ -19356,7 +19368,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1614,
+    "id": 1615,
     "verse_key": "84:18",
     "surah_id": 84,
     "verse_id": 18,
@@ -19368,7 +19380,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1615,
+    "id": 1616,
     "verse_key": "84:19",
     "surah_id": 84,
     "verse_id": 19,
@@ -19380,7 +19392,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1616,
+    "id": 1617,
     "verse_key": "85:12",
     "surah_id": 85,
     "verse_id": 12,
@@ -19392,7 +19404,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1617,
+    "id": 1618,
     "verse_key": "87:5",
     "surah_id": 87,
     "verse_id": 5,
@@ -19404,7 +19416,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1618,
+    "id": 1619,
     "verse_key": "88:17",
     "surah_id": 88,
     "verse_id": 17,
@@ -19416,7 +19428,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1619,
+    "id": 1620,
     "verse_key": "88:18",
     "surah_id": 88,
     "verse_id": 18,
@@ -19428,7 +19440,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1620,
+    "id": 1621,
     "verse_key": "88:19",
     "surah_id": 88,
     "verse_id": 19,
@@ -19440,7 +19452,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1621,
+    "id": 1622,
     "verse_key": "88:20",
     "surah_id": 88,
     "verse_id": 20,
@@ -19452,7 +19464,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1622,
+    "id": 1623,
     "verse_key": "89:16",
     "surah_id": 89,
     "verse_id": 16,
@@ -19464,7 +19476,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1623,
+    "id": 1624,
     "verse_key": "89:24",
     "surah_id": 89,
     "verse_id": 24,
@@ -19476,7 +19488,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1624,
+    "id": 1625,
     "verse_key": "90:3",
     "surah_id": 90,
     "verse_id": 3,
@@ -19488,7 +19500,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1625,
+    "id": 1626,
     "verse_key": "90:12",
     "surah_id": 90,
     "verse_id": 12,
@@ -19500,7 +19512,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1626,
+    "id": 1627,
     "verse_key": "91:8",
     "surah_id": 91,
     "verse_id": 8,
@@ -19512,7 +19524,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1627,
+    "id": 1628,
     "verse_key": "91:15",
     "surah_id": 91,
     "verse_id": 15,
@@ -19524,7 +19536,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1628,
+    "id": 1629,
     "verse_key": "92:4",
     "surah_id": 92,
     "verse_id": 4,
@@ -19536,7 +19548,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1629,
+    "id": 1630,
     "verse_key": "92:14",
     "surah_id": 92,
     "verse_id": 14,
@@ -19548,7 +19560,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1630,
+    "id": 1631,
     "verse_key": "92:17",
     "surah_id": 92,
     "verse_id": 17,
@@ -19560,7 +19572,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1631,
+    "id": 1632,
     "verse_key": "92:19",
     "surah_id": 92,
     "verse_id": 19,
@@ -19572,7 +19584,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1632,
+    "id": 1633,
     "verse_key": "93:5",
     "surah_id": 93,
     "verse_id": 5,
@@ -19584,7 +19596,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1633,
+    "id": 1634,
     "verse_key": "93:8",
     "surah_id": 93,
     "verse_id": 8,
@@ -19596,7 +19608,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1634,
+    "id": 1635,
     "verse_key": "93:9",
     "surah_id": 93,
     "verse_id": 9,
@@ -19608,7 +19620,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1635,
+    "id": 1636,
     "verse_key": "93:11",
     "surah_id": 93,
     "verse_id": 11,
@@ -19620,7 +19632,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1636,
+    "id": 1637,
     "verse_key": "94:8",
     "surah_id": 94,
     "verse_id": 8,
@@ -19632,7 +19644,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1637,
+    "id": 1638,
     "verse_key": "95:5",
     "surah_id": 95,
     "verse_id": 5,
@@ -19644,7 +19656,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1638,
+    "id": 1639,
     "verse_key": "95:7",
     "surah_id": 95,
     "verse_id": 7,
@@ -19656,7 +19668,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1639,
+    "id": 1640,
     "verse_key": "96:16",
     "surah_id": 96,
     "verse_id": 16,
@@ -19668,7 +19680,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1640,
+    "id": 1641,
     "verse_key": "97:1",
     "surah_id": 97,
     "verse_id": 1,
@@ -19680,7 +19692,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1641,
+    "id": 1642,
     "verse_key": "97:5",
     "surah_id": 97,
     "verse_id": 5,
@@ -19692,7 +19704,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1642,
+    "id": 1643,
     "verse_key": "98:1",
     "surah_id": 98,
     "verse_id": 1,
@@ -19704,7 +19716,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1643,
+    "id": 1644,
     "verse_key": "98:5",
     "surah_id": 98,
     "verse_id": 5,
@@ -19716,7 +19728,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1644,
+    "id": 1645,
     "verse_key": "98:6",
     "surah_id": 98,
     "verse_id": 6,
@@ -19728,7 +19740,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1645,
+    "id": 1646,
     "verse_key": "98:8",
     "surah_id": 98,
     "verse_id": 8,
@@ -19740,7 +19752,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1646,
+    "id": 1647,
     "verse_key": "100:8",
     "surah_id": 100,
     "verse_id": 8,
@@ -19752,7 +19764,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1647,
+    "id": 1648,
     "verse_key": "100:11",
     "surah_id": 100,
     "verse_id": 11,
@@ -19764,7 +19776,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1648,
+    "id": 1649,
     "verse_key": "101:3",
     "surah_id": 101,
     "verse_id": 3,
@@ -19776,7 +19788,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1649,
+    "id": 1650,
     "verse_key": "101:4",
     "surah_id": 101,
     "verse_id": 4,
@@ -19788,7 +19800,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1650,
+    "id": 1651,
     "verse_key": "102:6",
     "surah_id": 102,
     "verse_id": 6,
@@ -19800,7 +19812,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1651,
+    "id": 1652,
     "verse_key": "102:7",
     "surah_id": 102,
     "verse_id": 7,
@@ -19812,7 +19824,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1652,
+    "id": 1653,
     "verse_key": "102:8",
     "surah_id": 102,
     "verse_id": 8,
@@ -19824,7 +19836,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1653,
+    "id": 1654,
     "verse_key": "104:1",
     "surah_id": 104,
     "verse_id": 1,
@@ -19836,7 +19848,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1654,
+    "id": 1655,
     "verse_key": "104:2",
     "surah_id": 104,
     "verse_id": 2,
@@ -19848,7 +19860,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1655,
+    "id": 1656,
     "verse_key": "105:1",
     "surah_id": 105,
     "verse_id": 1,
@@ -19860,7 +19872,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1656,
+    "id": 1657,
     "verse_key": "105:2",
     "surah_id": 105,
     "verse_id": 2,
@@ -19872,7 +19884,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1657,
+    "id": 1658,
     "verse_key": "106:2",
     "surah_id": 106,
     "verse_id": 2,
@@ -19884,7 +19896,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1658,
+    "id": 1659,
     "verse_key": "107:7",
     "surah_id": 107,
     "verse_id": 7,
@@ -19896,7 +19908,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1659,
+    "id": 1660,
     "verse_key": "108:2",
     "surah_id": 108,
     "verse_id": 2,
@@ -19908,7 +19920,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1660,
+    "id": 1661,
     "verse_key": "108:3",
     "surah_id": 108,
     "verse_id": 3,
@@ -19920,7 +19932,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1661,
+    "id": 1662,
     "verse_key": "109:2",
     "surah_id": 109,
     "verse_id": 2,
@@ -19932,7 +19944,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1662,
+    "id": 1663,
     "verse_key": "109:4",
     "surah_id": 109,
     "verse_id": 4,
@@ -19944,7 +19956,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1663,
+    "id": 1664,
     "verse_key": "110:1",
     "surah_id": 110,
     "verse_id": 1,
@@ -19956,7 +19968,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1664,
+    "id": 1665,
     "verse_key": "111:2",
     "surah_id": 111,
     "verse_id": 2,
@@ -19968,7 +19980,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1665,
+    "id": 1666,
     "verse_key": "111:3",
     "surah_id": 111,
     "verse_id": 3,
@@ -19980,7 +19992,7 @@
     "missing_from_printed_copy": 0
   },
   {
-    "id": 1666,
+    "id": 1667,
     "verse_key": "113:3",
     "surah_id": 113,
     "verse_id": 3,
