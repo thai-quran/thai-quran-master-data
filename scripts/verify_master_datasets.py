@@ -28,14 +28,14 @@ CSV_DIR = os.path.join(REPO_DIR, "csv")
 EXPECTED_COUNTS = {
     "surahs": 114,
     "verses": 6236,
-    "footnotes": 7344,
+    "footnotes": 7345,
     "words": 83665,
     "tafsir": 6236,
     "themes": 1085,
     "topic_categories": 5,
     "topics": 30,
     "topic_verses": 1339,
-    "transparency_catalog": 1667
+    "transparency_catalog": 1674
 }
 
 def verify_sqlite():
@@ -117,11 +117,11 @@ def verify_json():
     json_files = {
         "surahs.json": 114,
         "quran_thai_translation.json": 6236,
-        "quran_footnotes.json": 7344,
+        "quran_footnotes.json": 7345,
         "quran_wbw_th_en.json": 83665,
         "quran_tafsir_mokhtasar.json": 6236,
         "quran_themes.json": 1085,
-        "quran_transparency_catalog.json": 1667,
+        "quran_transparency_catalog.json": 1674,
         "quran_topics.json": None  # Object with categories/topics/mappings
     }
 
@@ -158,7 +158,7 @@ def verify_csv():
     csv_files = {
         "surahs.csv": 114,
         "quran_thai_translation.csv": 6236,
-        "quran_transparency_catalog.csv": 1667
+        "quran_transparency_catalog.csv": 1674
     }
 
     all_ok = True
