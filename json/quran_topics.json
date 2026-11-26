@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "title_th": "การอิบาดะฮฺและดุอาอ์",
+      "title_th": "การอิบาดะฮฺและดุอาอฺ",
       "title_en": "Acts of Worship & Duas",
       "icon_name": "volunteer_activism",
       "sort_order": 2
@@ -82,7 +82,7 @@
     {
       "id": 7,
       "category_id": 1,
-      "title_th": "นบีอาดัมและเฮาวาอ์ (อ.ล.)",
+      "title_th": "นบีอาดัมและเฮาวาอฺ (อ.ล.)",
       "title_en": "Prophet Adam & Hawwa",
       "verses_count": 58
     },
@@ -110,14 +110,14 @@
     {
       "id": 11,
       "category_id": 2,
-      "title_th": "ดุอาอ์ร็อบบะนา (ดุอาอ์ในอัลกุรอาน)",
+      "title_th": "ดุอาอฺร็อบบะนา (ดุอาอฺในอัลกุรอาน)",
       "title_en": "Rabbana Duas (Quranic Prayers)",
       "verses_count": 20
     },
     {
       "id": 12,
       "category_id": 2,
-      "title_th": "การละหมาด (เศาะลาฮ์)",
+      "title_th": "การละหมาด (เศาะลาฮฺ)",
       "title_en": "Prayer (Salah)",
       "verses_count": 11
     },
@@ -152,7 +152,7 @@
     {
       "id": 17,
       "category_id": 2,
-      "title_th": "การรำลึกถึงอัลลอฮฺ (ซิกรุลลอฮ์)",
+      "title_th": "การรำลึกถึงอัลลอฮฺ (ซิกรุลลอฮฺ)",
       "title_en": "Remembrance of Allah (Dhikr)",
       "verses_count": 8
     },
@@ -201,7 +201,7 @@
     {
       "id": 24,
       "category_id": 4,
-      "title_th": "ความอดทนและการมอบหมาย (ศ็อบร์และตะวัstandardกัล)",
+      "title_th": "ความอดทนและการมอบหมาย (ศ็อบร์และตะวักกัล)",
       "title_en": "Patience & Trust in Allah (Sabr)",
       "verses_count": 14
     },

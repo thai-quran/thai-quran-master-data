@@ -28,7 +28,7 @@ CSV_DIR = os.path.join(REPO_DIR, "csv")
 EXPECTED_COUNTS = {
     "surahs": 114,
     "verses": 6236,
-    "footnotes": 7345,
+    "footnotes": 7351,
     "words": 83665,
     "tafsir": 6236,
     "themes": 1085,
@@ -117,7 +117,7 @@ def verify_json():
     json_files = {
         "surahs.json": 114,
         "quran_thai_translation.json": 6236,
-        "quran_footnotes.json": 7345,
+        "quran_footnotes.json": 7351,
         "quran_wbw_th_en.json": 83665,
         "quran_tafsir_mokhtasar.json": 6236,
         "quran_themes.json": 1085,
